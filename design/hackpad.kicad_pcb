@@ -135,6 +135,7 @@
 		(property "Reference" "D7"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "2c80ea17-3d1f-40d9-9c27-8069143ee524")
 			(effects
 				(font
@@ -2220,6 +2221,7 @@
 		(property "Reference" "D4"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "0d8fdf64-2faa-4500-8a98-1d30b686fb06")
 			(effects
 				(font
@@ -2455,6 +2457,7 @@
 		(property "Reference" "D2"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "5fe2263d-c87e-4513-8e41-ff33f15d686c")
 			(effects
 				(font
@@ -2861,6 +2864,7 @@
 		(property "Reference" "D8"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "5502061f-579b-44d8-8ee0-901d1025ca9e")
 			(effects
 				(font
@@ -3706,6 +3710,7 @@
 		(property "Reference" "D6"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "0542c2e9-fec2-4bc5-b2e2-3520674a3852")
 			(effects
 				(font
@@ -3941,6 +3946,7 @@
 		(property "Reference" "C4"
 			(at 0.995 24.39 45)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "c3b1e899-1ede-40e7-a46d-9366fcc10685")
 			(effects
 				(font
@@ -4286,6 +4292,7 @@
 		(property "Reference" "D9"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "66cc2406-48cd-4c5f-9601-5c0c881eaf97")
 			(effects
 				(font
@@ -4521,6 +4528,7 @@
 		(property "Reference" "D3"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "5d16c160-3d48-4413-bfec-dc09120d700a")
 			(effects
 				(font
@@ -5970,6 +5978,7 @@
 		(property "Reference" "H3"
 			(at 0 -3.05 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "54c7b46f-e415-43a5-b07b-702c8773f4ef")
 			(effects
 				(font
@@ -7721,6 +7730,7 @@
 		(property "Reference" "D1"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "f7910bf6-0554-4786-a5b3-1fd829649696")
 			(effects
 				(font
@@ -8865,6 +8875,7 @@
 		(property "Reference" "H2"
 			(at 0 -3.05 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "23fe9f6b-17ea-493f-9743-33c5f0a063c5")
 			(effects
 				(font
@@ -8981,6 +8992,7 @@
 		(property "Reference" "D5"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "336158b9-bc91-49ac-b8bc-615cb840d168")
 			(effects
 				(font
@@ -9820,6 +9832,7 @@
 		(property "Reference" "H1"
 			(at 0 -3.05 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "3b54040e-e8af-4010-a874-0f94c04f20dd")
 			(effects
 				(font
@@ -9936,6 +9949,7 @@
 		(property "Reference" "H4"
 			(at 0 -3.05 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "f2fa5e6d-ec0a-4800-9566-ffe380b05f25")
 			(effects
 				(font
@@ -11133,6 +11147,42 @@
 		(fill no)
 		(layer "Edge.Cuts")
 		(uuid "7489bfe7-91a3-40b1-95d7-49d1933c04b7")
+	)
+	(gr_text "github.com/TTF-fog/HACKPAD"
+		(at 224.465 112.345 0)
+		(layer "F.SilkS")
+		(uuid "9407e4a0-1138-4322-ab6b-d03664b5fcbe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "making this was very undignified"
+		(at 224.5 115 0)
+		(layer "F.SilkS")
+		(uuid "08ebab83-1270-45fe-8487-c17c9e75820d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "at least take me \nout to dinner first :3"
+		(at 271.75 34.25 0)
+		(layer "F.SilkS")
+		(uuid "92e96934-7ec5-4c47-b4e0-3d11fef462a7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start 265.669999 85.569998)

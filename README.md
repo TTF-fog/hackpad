@@ -12,7 +12,7 @@ a simple 9-key macropad with backlighting
 - [Design](design/)
 - [BOM](BOM.csv)
 - [Gerbers](gerbers.zip) 
-
+- [Schematic PDF](design/schem.pdf/hackpad.pdf)
 
 > DO FLASHING BEFORE ASSEMBLY!
 # flashing
@@ -34,6 +34,6 @@ a simple 9-key macropad with backlighting
 > PCB
 ![alt text](image-1.png)
 >Schematic
-
 ![alt text](image-2.png)
 > the CAD
+

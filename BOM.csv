@@ -1,0 +1,16 @@
+Comment,Designator,Footprint,LCSC,Quantity,Link,Price/Unit,Price (Total)
+100nF,"C3,C4",C_0402_1005Metric,C1525,2,https://lcsc.com/product-detail/C1525.html,0.0031,0.31
+10uF,C5,C_0402_1005Metric,C15525,1,https://lcsc.com/product-detail/C15525.html,0.0199,1.99
+1K,R2,R_0402_1005Metric,C11702,1,https://lcsc.com/product-detail/C11702.html,0.0011,0.11
+1uF,"C1,C2",C_0402_1005Metric,C52923,2,https://lcsc.com/product-detail/C52923.html,0.0143,0.72
+390K,R1,R_0402_1005Metric,C25557,1,https://lcsc.com/product-detail/C25557.html,0.0007,0.07
+C,100nF1,C_0402_1005Metric,C1525,1,https://lcsc.com/product-detail/C1525.html," 0.0031
+",0.31
+D,"D1,D2,D3,D4,D5,D6,D7,D8,D9",D_SOD-323,N/A,9,https://robu.in/product/1n4148ws-7-f-diodes-incorporated-75v-independent-1-25v150ma-4ns-150ma-sod-323-switching-diodes-rohs/,0.05,0.45
+SK6812MINI-E,"D10,D11,D12,D13,D14,D15,D16,D17,D18",LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm,C5149201,9,https://lcsc.com/product-detail/C5149201.html,0.0876,0.7884
+SW_Push,"SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9",SW_Cherry_MX_1.00u_PCB,N/A,9,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx2a-switch/,0.46,4.6
+RotaryEncoder,SW10,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,N/A,1,https://robu.in/product/hongyan-ec11h-7ce20p1zy20-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/,0.58,0.58
+XIAO-RP2350-SMD,U1,XIAO-RP2350-SMD,N/A,1,https://robu.in/product/seeedstudio-xiao-rp2350-raspberry-pi-rp2350/,8.4,8.4
+OLED-128O064D,DS1,OLED-128O064D,N/A,1,https://robu.in/product/oled-with-ssd1306/,1.6,1.6
+PCB Milling,N/A,N/A,N/A,1,https://jlcpcb.com,2,2
+,,,,,,13.2167,21.9284

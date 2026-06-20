@@ -18,3 +18,5 @@ a simple 9-key macropad with backlighting
 ![alt text](image-1.png)
 >Schematic
 
+![alt text](image-2.png)
+> the CAD

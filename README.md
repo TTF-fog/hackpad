@@ -31,9 +31,14 @@ a simple 9-key macropad with backlighting
 
 # images
 ![alt text](images/image.png)
+
 > PCB
+
 ![alt text](images/image-1.png)
+
 >Schematic
+
 ![alt text](images/image-2.png)
+
 > the CAD
 

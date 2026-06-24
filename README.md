@@ -8,7 +8,7 @@ a simple 9-key macropad with backlighting
 - i needed to remember how to CAD
 
 # Sub(Links)
-- [Zine.pdf](Zine.pdf)
+- [Zine.pdf](zine.pdf)
 - [Design](design/)
 - [BOM](BOM.csv)
 - [Gerbers](gerbers.zip) 
@@ -41,3 +41,5 @@ a simple 9-key macropad with backlighting
 ![alt text](images/cad.png)
 > the CAD
 
+![alt text](images/zine.png)
+> zine img

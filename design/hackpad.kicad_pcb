@@ -1244,15 +1244,15 @@
 			(uuid "eb2c37f5-de4d-45ae-9970-227b17f79ddf")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "/home/ttf/Downloads/cherry-mx-switch-5.snapshot.2/MX .STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz -10 -12 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -1549,15 +1549,15 @@
 			(uuid "e9af5d6f-52f8-4880-93cf-948bc468f03d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "/home/ttf/Downloads/cherry-mx-switch-5.snapshot.2/MX .STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz -10 -12 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -2200,15 +2200,15 @@
 			(uuid "0c3b875f-cd96-49f4-aaf1-465d6b935a9d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "/home/ttf/Downloads/cherry-mx-switch-5.snapshot.2/MX .STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz -10 -12 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -3386,7 +3386,7 @@
 		(embedded_fonts no)
 		(model "/home/ttf/Downloads/cherry-mx-switch-5.snapshot.2/MX .STEP"
 			(offset
-				(xyz -10 -12 6)
+				(xyz -10 -12 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -3689,15 +3689,15 @@
 			(uuid "9dbf190c-9797-4a95-a826-033b995f04f4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "/home/ttf/Downloads/cherry-mx-switch-5.snapshot.2/MX .STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz -10 -12 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -5050,13 +5050,13 @@
 		(embedded_fonts no)
 		(model "/home/ttf/Downloads/cherry-mx-switch-5.snapshot.2/MX .STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz -10 -12 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -5350,7 +5350,7 @@
 			(uuid "e0ef940d-5326-4dcf-badf-606a56aa08d0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5655,15 +5655,15 @@
 			(uuid "fa46fba1-f3ba-498b-ab60-4287d9deb9ed")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "/home/ttf/Downloads/cherry-mx-switch-5.snapshot.2/MX .STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz -10 -12 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -5957,7 +5957,7 @@
 			(uuid "74370281-be9b-4216-ae56-30cc4d273342")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6549,7 +6549,7 @@
 			(uuid "c2f7b0c3-7790-41d6-8393-edd0bd5773df")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8247,7 +8247,7 @@
 			(uuid "d246a071-df33-4403-b5b5-61f419fed951")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8552,15 +8552,15 @@
 			(uuid "6ad479a6-c820-4975-825c-d28c0803766d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "/home/ttf/Downloads/cherry-mx-switch-5.snapshot.2/MX .STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz -10 -12 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -8854,7 +8854,7 @@
 			(uuid "885aef0b-c3eb-4ded-ba7f-603e3b3e4112")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9509,7 +9509,7 @@
 			(uuid "8133ab3d-cd86-4512-8478-5d5f39497d56")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9811,7 +9811,7 @@
 			(uuid "be79e5e7-8b1c-486f-babc-cfc91c707b8d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10347,7 +10347,7 @@
 			(uuid "620ce484-4e00-49d3-93ba-748db0e98cfa")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10649,7 +10649,7 @@
 			(uuid "84c2c101-b489-4173-bb95-b69ebf5b20f3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11127,13 +11127,13 @@
 		(embedded_fonts no)
 		(model "/home/ttf/Downloads/cherry-mx-switch-5.snapshot.2/MX .STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz -10 -12 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)

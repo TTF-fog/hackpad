@@ -43,3 +43,6 @@ a simple 9-key macropad with backlighting
 
 ![alt text](images/zine.png)
 > zine img
+
+![alt text](image.png)
+>pcb 3dview
